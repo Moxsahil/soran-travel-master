@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name" translatable="false">Soral Travel</string>
+    <string name="YOUTUBE_API_KEY" translatable="false">AIzaSyBzGNSJ3GIBKfRw0M2i_LG4rr7oJ2DsvBc</string>
+    <string name="nav_header_title" translatable="false">Soral Travel</string>
+    <string name="nav_header_subtitle">explore Delhi city</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  Hotel view resources - start  -->
+    <string name="soran_palace_hotel_desc">Soran Palace Hotel sample</string>
+    <!--  Hotel view resources - start  -->
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_videos">Videos</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_hotels">Hotels</string>
+    <string name="menu_restaurants">Restaurants</string>
+    <string name="menu_where_to_go">Where To Go</string>
+    <string name="menu_weather">Weather</string>
+
+    <!--    home UI strings - START -->
+
+    <!--    BUTTONS  -->
+    <string name="FG_home_HOTELS_BTN">Hotels</string>
+    <string name="FG_home_RESTAURANTS_BTN">Restaurants</string>
+    <string name="FG_home_WTG_BTN">Where To Go</string>
+
+    <!--  ABOUT SORAN  -->
+    <string name="about_title_text">About</string>
+
+    <!--  about PARAGRAPH  -->
+    <string name="GENERAL_INFO_TITLE_TEXT">General Info</string>
+    <string name="GENERAL_INFO_TEXT">Soran (Kurdish: سۆران ,Soran‎) or Diana is a city in Erbil Governorate, and the capital of Soran District. Diana is one of the largest cities in Kurdistan Region, and is expected to increase within the next ten years by a further 50,000 people.</string>
+
+    <string name="ETYMOLOGY_TITLE_TEXT">Etymology </string>
+    <string name="ETYMOLOGY_TEXT">The Qutub Minar is a towering 73 meter high tower built by Qutub-ud-Din Aibak in 1193. The tower was built to celebrate Muslim dominance in Delhi</string>
+
+    <string name="HISTORY_TITLE_TEXT">History </string>
+    <string name="HISTORY_TEXT">
+    The construction of the Qutub Minar was started by Qitub-ud-Din Aibak, but he only constructed the basement. The construction of the tower was later taken over by his successor Iltutmish who constructed three more stories. The last two storeys were completed Firoz Shah Tuglak. The different architectural styles from the time of Aibak to Tuglak are clearly visible in the Qutub Minar.
+
+Apart from the tower, the Qutub Minar complex comprises of the Quwwat-us-Islam Mosque (the first mosque to be built in India), a 7 metre high iron pillar, the tomb of Iltutmish, Ala’i-Darwaza and the Ala’I Minar.
+    </string>
+
+    <string name="LANGUAGES_TITLE_TEXT">Languages </string>
+    <string name="LANGUAGES_TEXT">
+   The Iron Pillar in the courtyard bears an inscription in Sanskrit in Brahmi script of fourth century A.D., according to which the pillar was set up as a Vishnudhvaja (standard of god Vishnu) on the hill known as Vishnupada in memory of a mighty king named Chandra.
+    </string>
+
+    <string name="WIKIPEDIA_REFERENCE_TEXT">Read more on <a href="https://en.wikipedia.org/wiki/Delhi">wikipedia.org</a></string>
+
+    <!--    home UI strings - END -->
+
+    <!--  place.xml  STARTED -->
+    <string name="phone_title_text">Phone No:</string>
+    <!--  place.xml  END -->
+
+    <!--  fragment_XXX_show.xml  STARTED -->
+    <string name="rating_label">Rating:</string>
+    <string name="no_of_raters_text">%1$d Reviews</string>
+    <!--  fragment_XXX_show.xml  END -->
+
+    <!-- RestaurantListAdapter.java -->
+    <string name="not_supplied_text">not provided</string>
+    <string name="communicate">Communicate</string>
+
+    <!--  setting fragment  -->
+    <string name="language_label">Langauge:</string>
+
+    <!--  share fragment  -->
+    <string name="share_detail_text">This application is the result of an assignment in the material of Mobile Application to make a tourist application for a city in the cities of the Delhi Region. We decided to collaboratively design and develop it as a team of four. Feel free to provide us your feedback or improvements.</string>
+    <string name="GITHUB_LINK_TEXT" translatable="false"><a href="https://github.com/Moxsahil">@Moxsahil/soran-travel</a></string>
+    <string name="TWITTER_LINK_TEXT" translatable="false"><a href="https://twitter.com/SahilBarak20">@SahilBarak20</a></string>
+
+    <!--  Languages array  -->
+    <string-array name="languages">
+        <item>English</item>
+        <item>کوردی</item>
+        <item>العربیة</item>
+    </string-array>
+
+    <!--  video fragment  -->
+    <string name="gali_ali_bag_label">The Umrao</string>
+    <string name="kani_maran_label">Tivoli Garden Resort Hotel</string>
+    <string name="jndian_label">Qutub Residency Hotel</string>
+
+    <!--  Weather Fragment  -->
+    <string name="WEATHER_API_KEY" translatable="false">cc5d224ef51432465cd86927834c7da0</string>
+    <string name="soran_iraq">Soran, Iraq</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="wind">Wind:</string>
+    <string name="NO_INTERNET_CONNECTION">No Internet Connection, tap anywhere to retry</string>
+    <string name="github">\@mox_sahil/Soral travel</string>
+    <string name="GENERAL_INFO_TEXT2">hello</string>
+    <string name="GENERAL_INFO_TEXT3">"Hello,Welcome to Soral Travel "</string>
+    <string name="GENERAL_INFO_TEXT4">Hello everyone,Welcome to Soral Travel . We assure you that you will find your desired travelling location nearby hotels,restaurants and many more exciting places in Delhi.</string>
+    <string name="New_Delhi">New Delhi</string>
+    <string name="soran_iraq2">New Delhi</string>
+    <string name="ETYMOLOGY_TITLE_TEXT2">ETYMOLOGY</string>
+</resources>
